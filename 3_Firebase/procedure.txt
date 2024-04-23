@@ -1,0 +1,4 @@
+1. Create Project
+2. Run commands on CLI
+3. Left Navbar > Buld > Firestore Database Create Database > Mumbai
+4. Top Navbar > Rules > [Remove ':if false'] > Publish 
